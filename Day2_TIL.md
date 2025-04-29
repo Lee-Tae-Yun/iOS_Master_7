@@ -1,8 +1,6 @@
 # 📘 Day 2 Today I Learned - Swift와 iOS생태계 이해하기
 
-<br>
-
-## 🧑‍💻 Swift란?
+### 🧑‍💻 Swift란?
 Apple이 개발한 **프로그래밍 언어**로,  
 2014년 WWDC에서 처음 공개되었습니다.  
 
@@ -10,7 +8,7 @@ macOS, iOS, watchOS, tvOS 등 Apple 플랫폼 앱 개발에 사용됩니다.
 
 <br>
 
-## 🍏 iOS 생태계를 구성하는 주요 요소
+### 🍏 iOS 생태계를 구성하는 주요 요소
 
 | 구성 요소       | 설명                                             |
 |----------------|--------------------------------------------------|
@@ -21,7 +19,7 @@ macOS, iOS, watchOS, tvOS 등 Apple 플랫폼 앱 개발에 사용됩니다.
 
 <br>
 
-## 🧪 Swift Playgrounds란?
+### 🧪 Swift Playgrounds란?
 
 - Apple 제공의 **무료 코딩 학습 앱 (iPad, Mac)**
 - Xcode 없이도 Swift 코드 실행 가능
@@ -31,9 +29,8 @@ macOS, iOS, watchOS, tvOS 등 Apple 플랫폼 앱 개발에 사용됩니다.
 
 # 과제
 
-<br>
 
-## ✅ Swift의 주요 특징 (3가지)
+### ✅ Swift의 주요 특징 (3가지)
 
 1. **안전성 (Safety)**  
    → 엄격한 문법을 통해 프로그래머의 실수를 방지
@@ -44,7 +41,9 @@ macOS, iOS, watchOS, tvOS 등 Apple 플랫폼 앱 개발에 사용됩니다.
 3. **표현력 (Expressive)**  
    → 간결하면서도 표현력이 풍부한 구문 제공
 
-## 📱 Swift가 iOS 개발에 중요한 이유
+<br>
+
+### 📱 Swift가 iOS 개발에 중요한 이유
 
 Swift는 Apple이 직접 개발하고 최적화한 언어로, **iOS 개발에 가장 적합한 언어**입니다.  
 
@@ -54,7 +53,9 @@ Swift는 Apple이 직접 개발하고 최적화한 언어로, **iOS 개발에 �
 4. ✅ 안전성과 가독성
 5. 🌐 오픈소스 & 상호 운용성  
 
-## 💻 Xcode의 역할
+<br>
+
+### 💻 Xcode의 역할
 
 Xcode는 Apple 공식 **통합 개발 환경(IDE)** 으로, 다음과 같은 역할을 수행합니다:
 
@@ -63,7 +64,9 @@ Xcode는 Apple 공식 **통합 개발 환경(IDE)** 으로, 다음과 같은 역
 - 시뮬레이터를 통한 디버깅 및 테스트
 - 앱 서명 및 배포 (App Store 연동 포함)
 
-## 🚀 App Store 배포 순서
+<br>
+
+### 🚀 App Store 배포 순서
 
 1. **Apple Developer 등록**
 2. **앱 준비 및 설정**  
@@ -76,6 +79,8 @@ Xcode는 Apple 공식 **통합 개발 환경(IDE)** 으로, 다음과 같은 역
 6. **출시**
 7. **배포 후 유지보수**
 
+<br>
+
 ### ✏️ Swift Playground에서 작성 가능한 코드 예시
 
 - Swift 기본 문법
@@ -83,8 +88,9 @@ Xcode는 Apple 공식 **통합 개발 환경(IDE)** 으로, 다음과 같은 역
 - SwiftUI 기반 간단한 앱 UI
 - 실시간 실행 및 피드백
 
+<br>
 
-## 🆚 Swift Playgrounds vs Xcode
+### 🆚 Swift Playgrounds vs Xcode
 
 | 항목              | Swift Playgrounds     | Xcode                         |
 |-------------------|------------------------|-------------------------------|
@@ -95,5 +101,3 @@ Xcode는 Apple 공식 **통합 개발 환경(IDE)** 으로, 다음과 같은 역
 | 🚀 배포           | 제한적 (iPad에서만)     | 정식 App Store 배포 가능     |
 | 🐞 디버깅         | 실시간 결과 확인       | 고급 디버깅 도구 제공         |
 | 📦 확장성         | 패키지 제한 있음        | 외부 프레임워크 완전 지원     |
-
----
