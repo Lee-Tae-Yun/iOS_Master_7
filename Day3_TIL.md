@@ -46,7 +46,7 @@
 ### 논리 연산자
 ```swift
 &&  // AND: 둘 다 참이어야 참          true && false -> false  
-||  // OR (둘 중 하나가 참이어야 참)      true || false -> true
+||  // OR (둘 중 하나가 참이어야 참)     true || false -> true
 !   // NOT: 참을 거짓으로, 거짓을 참으로  !true -> false
 ```
 
