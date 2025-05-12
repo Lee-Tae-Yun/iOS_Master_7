@@ -1,6 +1,7 @@
 # 📘 Day 9 - Today I Learned
 
-오늘은 Swift에서의 **클래스(Class)** 와 **구조체(Struct)** 에 대해 학습하였습니다.
+**🔑 핵심 키워드:**  
+`Class`,`Struct`,`Call by Reference`,`Call by Value`,`property`,`method`
 
 ---
 
