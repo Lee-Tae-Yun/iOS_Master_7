@@ -1,4 +1,4 @@
-# 📘 Day XX - Today I Learned
+# 📘 Day 12 - Today I Learned
 
 **🔑 핵심 키워드:**  
 `UICollectionView`, `UITableView`, `컬렉션 뷰`, `스크롤 뷰`, `셀 등록`, `데이터 소스`, `레이아웃 구성`, `팀 프로젝트`, `와이어프레임`, `Figma`, `S.A 문서`
