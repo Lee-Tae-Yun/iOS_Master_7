@@ -1,4 +1,4 @@
-# 📘 Day 14 - TIL"  
+# 📘 Day 14 - TIL
 
 
  **🔑 Keywords**  
