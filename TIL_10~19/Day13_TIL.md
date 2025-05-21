@@ -1,4 +1,4 @@
-# 📘 Day 13 - TIL
+# 📘 Day 13 - Today I Learned
 
 **🔑 Keywords**: Git, Git 명령어, GitHub 협업, 브랜치, 커밋, push, pull, SSH
 
