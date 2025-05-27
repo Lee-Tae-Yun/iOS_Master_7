@@ -1,6 +1,6 @@
 # 📘 Day 18 - Today I Learned
 
-**🔑 Keywords**: `enum`,`Assciated Values`, `Raw Values`
+**🔑 Keywords**: `enum`, `Associated Values`, `Raw Values`, `MVC`, `리팩토링`, `코드 설계`
 
  ## 🔍 Today Error or Issues  
 > **`Issues`** : 기존에 전역 변수로 선언한 데이터 흐름을 컴포넌트 기반으로 리팩토링하려고 했는데, Model과 View의 책임 구분이 애매하다.
