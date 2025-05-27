@@ -19,17 +19,19 @@ Swift와 iOS 개발을 중심으로 학습한 내용을 기록합니다.
 ### ✅ Day 14 - 코드베이스UI 설정
 
 ### ✅ Day 15 - 데이터 저장 방법
-- Error: git branch 삭제
+- `Error`: git branch 삭제
 
 ### ✅ Day 16 - 미니프로젝트 발표회
-- Error: git pull
+- `Error`: git pull
 
 ### ✅ Day 17 - 개인 과제
 - BaseBall Game
 - 클로저의 사용 이유
 
 ### ✅ Day 18 - 데이터 그룹화
-**🔑 Keywords** : `enum`, `Associated Values`, `Raw Values`, `MVC`, `리팩토링`, `코드 설계`
+- `Issues`: 코드 리팩토링
+- **🔑 Keywords** : `enum`, `Associated Values`, `Raw Values`, `MVC`, `리팩토링`, `코드 설계`
+
 ### ✅ Day 19 -
 
 ---

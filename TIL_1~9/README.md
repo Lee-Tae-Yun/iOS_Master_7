@@ -33,8 +33,8 @@ Swift와 iOS 개발을 중심으로 학습한 내용을 기록합니다.
 ### ✅ Day 7 - 아티클 스터디
 - 성장하고싶은 당신이 꼭 해야하는 인지적 활동
 ### ✅ Day 8 - 문법학습
- **🔑 Keywords** : `Collection`,`Closure`, `Optional`
- - 옵셔널 사용 이유
+- **🔑 Keywords** : `Collection`,`Closure`, `Optional`
+- 옵셔널 사용 이유
 
 ### ✅ Day 9  - 클래스 및 구조체 기초
 - 기초 문법
