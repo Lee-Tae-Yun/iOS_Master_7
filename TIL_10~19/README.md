@@ -32,7 +32,10 @@ Swift와 iOS 개발을 중심으로 학습한 내용을 기록합니다.
 - `Issues`: 코드 리팩토링
 - **🔑 Keywords** : `enum`, `Associated Values`, `Raw Values`, `MVC`, `리팩토링`, `코드 설계`
 
-### ✅ Day 19 -
+### ✅ Day 19 - 
+- `Error`: 
+- **🔑 Keywords** : `String`, `Index`, `Character`, `Array 변환`
+
 
 ---
 > **오늘의 기록이 내일의 성장으로 이어진다.** ⭐️
