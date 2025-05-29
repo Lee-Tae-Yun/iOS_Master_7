@@ -32,8 +32,8 @@ Swift와 iOS 개발을 중심으로 학습한 내용을 기록합니다.
 - `Issues`: 코드 리팩토링
 - **🔑 Keywords** : `enum`, `Associated Values`, `Raw Values`, `MVC`, `리팩토링`, `코드 설계`
 
-### ✅ Day 19 - 
-- `Error`: 
+### ✅ Day 19 - 개인 과제
+- `Error`: 배열 인덱스 접근
 - **🔑 Keywords** : `String`, `Index`, `Character`, `Array 변환`
 
 
