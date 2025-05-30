@@ -8,7 +8,7 @@ Swift와 iOS 개발을 중심으로 학습한 내용을 기록합니다.
 - `Issues`: Controller 의존성
 - **🔑 Keywords**: `Property`
 
-### ✅ Day 21 
+### ✅ Day 21 - SwiftLint 설정방법
 
 ### ✅ Day 22 
 
