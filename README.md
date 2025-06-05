@@ -1,7 +1,8 @@
 # 📘 TIL - Today I Learned
 
 매일 배우고, 매일 기록합니다.  
-Swift와 iOS 개발을 중심으로 학습한 내용을 정리한 개발 성장 일지입니다.  
+Swift와 iOS 개발을 중심으로 학습한 내용을 정리한 개발 성장 일지입니다.
+<br>
 📝 [Blog](https://Lee-Tae-Yun.github.io)
 
 
